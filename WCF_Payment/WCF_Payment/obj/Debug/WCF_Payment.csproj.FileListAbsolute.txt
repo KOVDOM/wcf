@@ -1,0 +1,7 @@
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\bin\WCF_Payment.dll.config
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\bin\WCF_Payment.dll
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\bin\WCF_Payment.pdb
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\obj\Debug\WCF_Payment.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\obj\Debug\WCF_Payment.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\obj\Debug\WCF_Payment.dll
+C:\Users\kovdo\source\repos\WCF_Payment\WCF_Payment\obj\Debug\WCF_Payment.pdb
